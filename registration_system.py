@@ -1,3 +1,4 @@
+# Qodo SQA review test
 class StudentCourseRegistrationSystem:
     def __init__(self):
         self.users = {"S101": "Pass123"}
